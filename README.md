@@ -1,2 +1,3 @@
-# strapi-cms-with-mogodb
-files with mongo db  
+# Strapi application
+
+A quick description of your strapi application
